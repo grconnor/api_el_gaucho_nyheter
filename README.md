@@ -14,23 +14,8 @@
 - Mauro Avellaneda.
 - Sara Lundkvist.
 
-## Built with
-
-React v.16.13.1 </br>
-**Testing framework:** Cypress
 
 ## Getting started
-
-### Dependencies
-
-- Yarn
-- React
-- Cypress
-- Axios
-- Semantic-ui-react
-- Image-uploading
-- React-redux
-
 ### Necessary steps:
 
 ```
